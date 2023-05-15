@@ -1,4 +1,4 @@
-# paypal_intigration
+# paypal_integration
 
 A new Flutter project.
 
