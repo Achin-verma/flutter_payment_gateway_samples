@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Flutter Paypal Payment Sample
 Output:
-![Paypal Payment](C:\Users\Signity\paypal.png)
+![Paypal Payment](C:/Users/Signity/paypal.png)
 
